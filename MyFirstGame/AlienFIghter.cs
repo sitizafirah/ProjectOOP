@@ -1,4 +1,4 @@
-using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework; //alien lawan
 using Microsoft.Xna.Framework.Graphics;
 
 namespace MyFirstGame
