@@ -10,7 +10,7 @@ namespace MyFirstGame
         Shield,
         WeaponUpgrade
     }
-
+// mia buat 
     public class PowerUp
     {
         // Visuals
